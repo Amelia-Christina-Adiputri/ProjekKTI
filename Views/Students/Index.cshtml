@@ -1,0 +1,42 @@
+@model IEnumerable<MyWebApp.Models.Student>
+
+@* @{
+    ViewData["Title"] = "Home Page";
+
+    string message = (string)ViewData["Message"];
+    string message1 = ViewData["Message"].ToString();
+} *@
+
+<div class="row">
+    <div class="col-md-10 col-md-offset-2">
+        <table class="table table-striped">
+            <tr>
+                <th>Student ID</th>
+                <th>Student Name</th>
+                <th>Student Email</th>
+                <th>Student BirthDate</th>
+            </tr>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.StudentId</td>
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+                    <td>@item.BirthDate</td>
+                </tr>
+            }
+        </table>
+    </div>
+    
+    @* <h1 class="display-4">Daftar Students</h1>
+    <p>Student Id: @Model.StudentId</p>
+    <p>Student Name: @Model.Name</p>
+    <p>Student Email: @Model.Email</p>
+    <p>Student Birthdate: @Model.BirthDate</p>
+
+    <p>Info Daftar Student</a>.</p>
+    <p>Message: @ViewData["Message"]</p>
+    <p>Message: @message</p>
+    <p>Date: @ViewData["Date"]</p>
+    <p>@ViewBag.pesan</p> *@
+</div>

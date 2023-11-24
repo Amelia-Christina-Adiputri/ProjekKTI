@@ -1,0 +1,7 @@
+D:\A Kuliah\SMT 5\Keamanan Teknologi Informasi\Code\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.exe
+D:\A Kuliah\SMT 5\Keamanan Teknologi Informasi\Code\MyWebApp\bin\Debug\net7.0\publish\appsettings.Development.json
+D:\A Kuliah\SMT 5\Keamanan Teknologi Informasi\Code\MyWebApp\bin\Debug\net7.0\publish\appsettings.json
+D:\A Kuliah\SMT 5\Keamanan Teknologi Informasi\Code\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.dll
+D:\A Kuliah\SMT 5\Keamanan Teknologi Informasi\Code\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.deps.json
+D:\A Kuliah\SMT 5\Keamanan Teknologi Informasi\Code\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.runtimeconfig.json
+D:\A Kuliah\SMT 5\Keamanan Teknologi Informasi\Code\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.pdb
